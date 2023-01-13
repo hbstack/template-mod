@@ -1,4 +1,4 @@
-# [[module.imports]]
-# path = "github.com/razonyang/hb"
+[[module.imports]]
+path = "github.com/razonyang/hb"
 
-# [params.hb.___]
+# [params.hb.____]

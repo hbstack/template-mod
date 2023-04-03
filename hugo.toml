@@ -1,0 +1,10 @@
+# [module.hugoVersion]
+# min = "0.111.3"
+
+[[module.imports]]
+path = "github.com/hbstack/hb"
+
+# [params.hb.____]
+
+# [params.hugopress.modules.hb-____.hooks.body_end]
+# cacheable = true

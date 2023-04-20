@@ -6,5 +6,5 @@ path = "github.com/hbstack/hb"
 
 # [params.hb.____]
 
-# [params.hugopress.modules.hb-____.hooks.body_end]
+# [params.hugopress.modules.hb-____.hooks.body-end]
 # cacheable = true
